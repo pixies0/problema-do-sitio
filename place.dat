@@ -1,0 +1,26 @@
+data;
+
+set CULTURAS := Trigo Arroz Milho;
+param produtividade :=
+    Trigo 0.2
+    Arroz 0.3
+    Milho 0.4;
+param lucro :=
+    Trigo 10.8
+    Arroz 4.2
+    Milho 2.03;
+param demanda :=
+    Trigo 400
+    Arroz 800
+    Milho 10000;
+
+set AREAS := S1 S2 S3;
+param area_disponivel :=
+    S1 400
+    S2 800
+    S3 10000;
+
+param MaxArea := 200000;  
+param MaxProductionTon := 60000; 
+
+end;
