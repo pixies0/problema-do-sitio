@@ -2,7 +2,7 @@
 
 Alunos: João Pedro Silva Cunha
 
-Nesse repositorio você encontra o código fonte e um breve relatório () do experimento aplicado.
+Nesse repositorio você encontra o código fonte e um breve relatório (PO-1.pdf) do experimento aplicado.
 
 Link para apresentação:
 
